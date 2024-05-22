@@ -1,16 +1,18 @@
-### Hi there 👋
+### vindas ao meu perfil 🫀💙 🇧🇷🏀🇪🇦🎼
+Meu nome é *✨Geovanna Cristina✨*
+ 
+ -Estou estudando Alura🥹
+ 
+ -Estou me desenvolvendo na linguagem JavaScript🎓
 
-<!--
-**Geovannacristina/Geovannacristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você entrar em contato comigo 📫alurastartestudante@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@alurastartestudante
+
+ <img src="https://64.media.tumblr.com/8326c8bd5daeb434ec44f747d0cdc9d4/b32d70fb1f6cb188-f8/s400x600/679d1f88ed770985ae378fdd532296edb8f59ec4.gifv" alt="image"/>
+
+
+
+
