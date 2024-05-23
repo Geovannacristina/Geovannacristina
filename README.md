@@ -1,7 +1,7 @@
-### vindas ao meu perfil 🫀💙 🇧🇷🏀🇪🇦🎼
+### vindas ao meu perfil 💙 🇧🇷 🏀 🇪🇦 🎼
 Meu nome é *✨Geovanna Cristina✨*
  
- -Estou estudando Alura🥹
+ -Estou estudando Alura 
  
  -Estou me desenvolvendo na linguagem JavaScript🎓
 
